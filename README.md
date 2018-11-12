@@ -1,2 +1,2 @@
-# testsite
-A site to test ideas
+# Test Site
+A site to test ideas.
