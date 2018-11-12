@@ -6,11 +6,9 @@ body {
 }
 
 header {
+    margin: auto;
     background-color: rgba(50, 50, 50, .5);
-    padding-left: 10px;
-    padding-right: 10px;
-    padding-top: 5px;
-    padding-bottom: 5px;
+
     height: 60px;
 }
 
@@ -20,10 +18,8 @@ header {
 }
 
 header h1 {
-    display: table-cell;
-    margin: 0px;
-    height: 60px;
-    vertical-align: middle;
+    width: 50%;
+    border: 1px solid red;    
     float: left;
 }
 
